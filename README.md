@@ -2,7 +2,7 @@
 
 Демонстрационная работа про Анри Картье-Брессона.
 
-Посмотреть: https://melodyn.github.io/henri-cartier‑bresson
+Посмотреть: https://melodyn.github.io/henri-cartier-bresson/
 
 Разработан в рамках обучения программе Web-разработчик на Яндекс.Практикум.
 
